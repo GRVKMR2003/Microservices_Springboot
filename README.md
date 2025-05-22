@@ -1,5 +1,5 @@
 
-# Microservices with Spring Boot
+# Microservices with Spring Boot with modern features
 
 ## Overview
 This project demonstrates the implementation of microservices architecture using Spring Boot. It covers various aspects of microservices such as service discovery, circuit breaker, API gateway, and inter-service communication.
